@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Misbah Nasir</h1>
+<h1 align="center"> I'm Misbah Nasir</h1>
 <h3 align="center">💻 Passionate Developer | 🎨 Designer | 🚀 Learner</h3>
 
 ---
